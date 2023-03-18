@@ -10,3 +10,9 @@ https://github.com/Philipp-Sc/rust-bert-fraud-detection
 https://github.com/Philipp-Sc/cosmos-rust-bot
 
  
+ 
+## Contributions
+
+https://github.com/whisperfish/presage    
+https://github.com/Philipp-Sc/cosmos-rust-development    
+https://github.com/MiscellaneousStuff/openai-whisper-cpu    
