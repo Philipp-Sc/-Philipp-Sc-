@@ -7,7 +7,7 @@ https://github.com/Philipp-Sc/rust-bert-fraud-detection
 
 ## A Rust bot for the Cosmos Ecosystem
 
-https://github.com/Philipp-Sc/cosmos-rust-bot
+https://github.com/Philipp-Sc/cosmos-rust-bot     
 https://github.com/Philipp-Sc/cosmos-rust-package
  
  
