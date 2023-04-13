@@ -14,5 +14,5 @@ https://github.com/Philipp-Sc/cosmos-rust-package
 ## Contributions
 
 https://github.com/whisperfish/presage    
-https://github.com/Philipp-Sc/cosmos-rust-development    
+https://github.com/cosmos/cosmos-rust     
 https://github.com/MiscellaneousStuff/openai-whisper-cpu    
