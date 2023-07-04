@@ -9,7 +9,9 @@ https://github.com/Philipp-Sc/rust-bert-fraud-detection
 
 https://github.com/Philipp-Sc/cosmos-rust-bot     
 https://github.com/Philipp-Sc/cosmos-rust-package
- 
+
+## Permutation feature importance
+https://github.com/Philipp-Sc/importance/tree/main
  
 ## Contributions
 
