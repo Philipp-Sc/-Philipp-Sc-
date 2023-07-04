@@ -11,7 +11,7 @@ https://github.com/Philipp-Sc/cosmos-rust-bot
 https://github.com/Philipp-Sc/cosmos-rust-package
 
 ## Permutation feature importance
-https://github.com/Philipp-Sc/importance/tree/main
+https://github.com/Philipp-Sc/importance
  
 ## Contributions
 
