@@ -1,19 +1,22 @@
-#  AI and Crypto
+##  Philipp's GitHub activity
 
-## Crypto Scam Detection
+### LibreAI
+WIP    
+https://libreai.de
 
-https://github.com/Philipp-Sc/rust-bert-fraud-detection
+### LLM Fraud Detection
+Leveraging llama.cpp to generate text embeddings from a given input text, which are then used to predict the likelihood of fraud.    
+https://github.com/Philipp-Sc/llm-fraud-detection
 
-
-## A Rust bot for the Cosmos Ecosystem
-
-https://github.com/Philipp-Sc/cosmos-rust-bot     
+### Cosmos Rust Package
+An API to query and broadcast transactions via gRPC. Makes direct use of cosmos-rust (cosmos‑sdk‑proto, cosmrs) and osmosis-rust (osmosis-std).    
 https://github.com/Philipp-Sc/cosmos-rust-package
 
-## Permutation feature importance
+### Permutation feature importance
+A rust port to aid in the task of feature selection.    
 https://github.com/Philipp-Sc/importance
  
-## Contributions
+#### Other Contributions
 
 https://github.com/whisperfish/presage    
 https://github.com/cosmos/cosmos-rust     
