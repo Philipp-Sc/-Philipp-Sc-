@@ -1,8 +1,5 @@
 ##  Philipp's GitHub activity
 
-### LibreAI
-WIP    
-https://libreai.de
 
 ### LLM Fraud Detection
 Leveraging llama.cpp to generate text embeddings from a given input text, which are then used to predict the likelihood of fraud.    
